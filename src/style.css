@@ -1,0 +1,45 @@
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+.save-btn {
+  margin-top: 10px;
+}
+
+.load-btn {
+  margin-top: 20px;
+}
+
+.table {
+  font-family: Arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table th, .table td {
+  border: 1px solid #8a3232;
+  padding: 8px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #cc0d0d;
+}
+
+.table tr:nth-child(even) {
+  background-color: #922121;
+}
+
+.table tr:hover {
+  background-color: #d44545;
+}
+
+.q-btn {
+  margin-right: 5px;
+}
